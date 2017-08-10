@@ -1,0 +1,65 @@
+
+[HEADER]
+Audrey Olson
+Software Engineer
+
+
+[ABOUT]
+My name is Audrey, and I'm an avid lover and aspiring implementer of innovative UI/UX design with a comparable zeal for music, filmography, and the written word. My perpetual goal as a software engineer (and onlooker into the curio cabinet of life) is the transparentization of any and all black boxes, technical or otherwise. 
+
+[RESUME]
+ <EDUCATION>
+University of California, San Diego
+B.S. Computer Science (2017)
+
+ <SKILLS>
+*Software:
+	Java		****
+	C/C#/C++ 	***
+	Python		***
+	BASH		**
+
+*Web:
+	HTML5		****
+	CSS3		****
+	JavaScript	****
+	SQL			***
+
+ <EXPERIENCE>
+*UCSD ECE Dept. - Project-in-a-Box Tutor
+*Oracle - Java Software Development Intern
+
+[PROJECTS]
+* Web Portfolio PIB (Summer 2017)
+* MatchRest (Spring 2017)
+	- 1st Place Winner of UCSD Application Student Innovation Contest
+* The Compass
+	- 2D Top-Down Shooter Game
+* Virtual Reality Goggles & 3-D Maze Game
+	- Hands-on Educational Engineering Application
+
+[CONTACT]
+* Phone
+* Email
+* Linked-In
+* GitHub
+
+[INSPO]
+* www.jesseqin.com
+* www.edngai.com/old
+* www.jesseren.com
+
+[COLORS]
+* RED:			#990000
+* GOLD:			#a1874e
+* DARK GOLD:	#877140
+* DARK GREY:	#333333
+* DARK RED:		#560000
+
+* SOFT GRAY:	#566b78
+* SOFT WHITE:	#f5f7f9
+
+[FONTS]
+* Josefin Sans
+* Amatic SC
+

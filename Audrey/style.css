@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Josefin+Sans');
+
+body{
+	color: #566b78; /*softer gray*/
+	background: #f5f7f9; /*softer white*/
+	font-family: 'Josefin Sans',sans-serif;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+h1{
+	color: #990000; /*red*/
+	font-family: 'Amatic SC',sans-serif;
+	font-size: 70px;
+}
+
+h2{
+	color: #560000; /*dark red*/
+	font-family: 'Amatic SC',sans-serif;
+	font-size: 40px;
+
+}
+
+.title{
+	color: #333333; /*grey*/
+	font-family: 'Amatic SC',sans-serif;
+	font-size: 20px;	
+}
+
+.navbar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	color: #566b78;	/*softer grey*/
+	background-color: #a1874e; /*gold*/
+}
+
+.navbarel{
+	float: left;
+}
+
+.navbarel a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* change the link color to #877140 (dark gold) on hover */
+.navbarel a:hover {
+	background-color: #877140;
+}
