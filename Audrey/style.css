@@ -10,7 +10,7 @@ body{
 }
 
 h1{
-	color: #990000; /*red*/
+	color: maroon;
 	font-family: 'Amatic SC',sans-serif;
 	font-size: 70px;
 }
@@ -19,16 +19,24 @@ h2{
 	color: #560000; /*dark red*/
 	font-family: 'Amatic SC',sans-serif;
 	font-size: 40px;
+}
 
+h3{
+	color: #560000; /*dark red*/
+	font-family: 'Amatic SC',sans-serif;
+	font-size: 30px;
+}
+
+.jumbotron{
 }
 
 .title{
 	color: #333333; /*grey*/
-	font-family: 'Amatic SC',sans-serif;
+	font-family: 'Josefin Sans',sans-serif;
 	font-size: 20px;	
 }
 
-.navbar{
+#navbar{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -52,4 +60,9 @@ h2{
 /* change the link color to #877140 (dark gold) on hover */
 .navbarel a:hover {
 	background-color: #877140;
+}
+
+/* set the link to maroon when active */
+.navbaract {
+	background-color: maroon;
 }
