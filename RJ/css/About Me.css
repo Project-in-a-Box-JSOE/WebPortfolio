@@ -1,0 +1,64 @@
+*{margin: 0;}
+h1,h2,h3 {
+    font-family: 'Merriweather', sans-serif;
+    color: #033649;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+
+p,ul.info {
+    font-family: 'Open Sans', sans-serif;
+    color: #036564;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+#name {
+    padding-bottom: 100vh;
+    padding-top:35vh;
+    text-align: center;
+}
+#education, #experience, #projects {
+    margin-bottom: 100vh;
+}
+
+.circleimage {
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+}
+
+body,html {
+    height:100%;
+    margin: 0px;
+    padding: 0;
+    background-color:#d6e5e3;;
+}
+#right {
+    margin-left: 15%;
+}
+#navUL {
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    height: 100%;
+    list-style-type: none;
+    position: fixed;
+    overflow: auto;
+    background-color: #424874;
+}
+.navLink{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    color: #cacfd6;
+    padding:8px 16px;
+    text-decoration: none;
+}
+
+.navElement:hover {
+    background-color: #a6b1e1;
+    color: white;
+}
+
