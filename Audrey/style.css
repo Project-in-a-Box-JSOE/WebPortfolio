@@ -5,8 +5,13 @@ body{
 	color: #566b78; /*softer gray*/
 	background: #f5f7f9; /*softer white*/
 	font-family: 'Josefin Sans',sans-serif;
-	margin-left: 250px;
-	margin-right: 250px;
+	
+	position: center;
+
+	margin: auto;
+	width: 75%;
+	padding: 10px;
+
 }
 
 h1{
@@ -43,6 +48,8 @@ h3{
 	overflow: hidden;
 	color: #566b78;	/*softer grey*/
 	background-color: #a1874e; /*gold*/
+
+	/*position: fixed;*/
 }
 
 .navbarel{
