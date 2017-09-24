@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Josefin+Sans');
 
 body{
@@ -41,15 +40,20 @@ h3{
 	font-size: 20px;	
 }
 
+.section{
+}
+
+/* navbar section */
+
 #navbar{
 	list-style-type: none;
-	margin: 0;
-	padding: 0;
+
 	overflow: hidden;
 	color: #566b78;	/*softer grey*/
 	background-color: #a1874e; /*gold*/
 
-	/*position: fixed;*/
+	/*position: fixed;
+	z-index: 1;*/
 }
 
 .navbarel{
@@ -72,4 +76,67 @@ h3{
 /* set the link to maroon when active */
 .navbaract {
 	background-color: maroon;
+}
+
+.carousel {
+  	height: 500px;
+}
+
+.carousel-item {
+	padding: 10%;
+	height: 500px !important;
+}
+
+/* image section */
+
+#holistic {
+	margin: 0 auto !important;
+	display: block !important;
+
+	background-color: maroon;
+	color: #f5f7f9;
+	padding: 20px;
+}
+
+#logo{
+	float:left;
+	width:150px;
+	height:150px;
+	margin-right:40px;
+}
+
+#proj1{
+	background-image: url("images/audreyPortfolio.png");
+	opacity: 0.8;
+}
+
+.projtext{
+	background: rgba(255,255,255,0.5);
+	padding: 20px;
+}
+
+#proj2{
+	background-image: url("images/matchrest.png");
+	opacity: 0.8;
+}
+
+#proj3{
+	background-image: url("images/horizonsPull.png");
+	opacity: 0.8;
+}
+
+#proj4{
+	background-image: url("images/unity.png");
+	opacity: 0.8;
+}
+
+/* buttons */
+.btn-primary{
+	background-color: maroon;
+	position: center;
+	
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+
 }

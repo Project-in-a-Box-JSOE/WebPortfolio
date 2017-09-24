@@ -1,31 +1,5 @@
-<body>
 
-		<div id="menu">
-			<table class ="navbar" width="800">
-				<tr>
-					<td class="menuNormal" width="160" onmouseover="expand(this);" onmouseout="collapse(this);">
 
-					<p>Menu 1</p>
-						<div class="menuNormal" width="155">
-							<table class="menu" width="155">
-							<tr><td class="menuNormal">
-							<a href="portfolio.html" class="menuitem">Item1</a>
-							</rd></tr>
-							<tr><td class="menuNormal">
-							<a href="portfolio.html" class="menuitem">Item1</a>
-							</rd></tr>
-							<tr><td class="menuNormal">
-							<a href="portfolio.html" class="menuitem">Item1</a>
-							</rd></tr>
-							<tr><td class="menuNormal">
-							<a href="portfolio.html" class="menuitem">Item1</a>
-							</rd></tr>
-							</table>
-						</div>
-					</td>
-				</tr>
-			</table>
-		</div>
 
 - how to link to a CSS file from an HTML file
 - how to preview a web page you're working on in the browser
@@ -34,7 +8,6 @@
 		<!--1>
 		<link type="text/css" rel="stylesheet" href="style.css"/-->
 	
-		<!--lessons
 		
 		* everything cascades: all the rules of the highest block cascade until another later rule overrides it - until a BLOCK element is hit (then follows rules of body or rules specified for that element)
 		
@@ -67,38 +40,9 @@
 		word-spacing
 		text-align
 
-		-->
-		
-		<!--style>
-			body{
-				color: green;
-				font-family: verdana, arial, sans-serif;
-			}
-			p{
-				color: purple;
-			}
-			h1, h2{
-				font-family: times new roman, georgia, serif;
-			}
 
-		</style-->
-
-		<!--style>
-			h1{
-				font-family: verdana, arial, sans-serif;
-				font-size: 14px;
-			}
-
-			h1.purple{
-				color: purple;
-			}
-
-			h1.green{
-				color: green;
-			}
-
-			.purpleserif{
-				font-family: times, georgia, serif;
-				color: purple;
-			}
-		</style-->
+Bootstrap
+=========
+- buttons
+- text hide + reveal
+- hidden elements
